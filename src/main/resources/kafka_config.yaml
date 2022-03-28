@@ -1,0 +1,13 @@
+---
+installationDir:
+  "D:\\Software\\Kafka\\kafka_2.12-2.5.0"
+setupLogDir:
+  "E:\\Lab\\ProcessorData\\logs\\"
+errorLogFileName:
+  "error.txt"
+outputLogFileName:
+  "output.txt"
+version:
+  "2.12-2.5.0"
+port:
+  "8987"
